@@ -4,13 +4,13 @@ The perfect solution for enabling PayPal donations at your WordPress site.
 
 ![Plugin's cover](https://ps.w.org/exquisite-paypal-donation/assets/banner-772x250.jpg?rev=1148320)
 
-##Links
+## Links
 
 [Plugin on wordpress repository](https://wordpress.org/plugins/exquisite-paypal-donation/)
 
 [Plugin's Home](http://plugins.dgcult.com/)
 
-###Licence
+### Licence
 License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
