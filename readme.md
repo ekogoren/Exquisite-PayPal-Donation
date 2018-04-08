@@ -1,18 +1,27 @@
 # Exquisite PayPal Donation
-Contributors: Eko Goren
-Tags: Paypal payment, paypal, pay pal , WordPress PayPAl donation, PayPal donation, wordpress paypal, paypal for wordpress, paypal plugin for wordpress, paypal integration, paypal, payment, 
-Donate link: http://plugins.dgcult.com/exq
-Requires at least: 3.5
-Tested up to: 4.9.5
-Stable tag: 2.1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 The perfect solution for enabling PayPal donations at your WordPress site.
 
-## Description 
+![Plugin's cover](https://ps.w.org/exquisite-paypal-donation/assets/banner-772x250.jpg?rev=1148320)
+
+##Links
+
+[Plugin on wordpress repository](https://wordpress.org/plugins/exquisite-paypal-donation/)
+
+[Plugin's Home](http://plugins.dgcult.com/)
+
+###Licence
+License: GPLv2 or later
+
+License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+
+
+### Description 
+```html
 A simple, elegant, responsive and extensive solution for accepting Paypal donations at your WordPress site. Choose between a preferred currency and a multi-currencies selection drop down, and let your visitor decide on the amount, while still at your site. The plugin is 100% translatable and the Paypal payment page will be presented automatically in the same language as your website pages. The form can be used by drag&drop in the widget areas, via a short code in the posts and pages of your site or hardcoded by calling a function anywhere in your website.
-More on: http://http://plugins.dgcult.com/exq
+```
+
 
 * Easy setup.
 * 100% translatable.
