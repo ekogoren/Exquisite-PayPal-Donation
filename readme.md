@@ -8,8 +8,6 @@ The perfect solution for enabling PayPal donations at your WordPress site.
 
 [Plugin on wordpress repository](https://wordpress.org/plugins/exquisite-paypal-donation/)
 
-[Plugin's Home](http://plugins.dgcult.com/)
-
 ### Licence
 License: GPLv2 or later
 
